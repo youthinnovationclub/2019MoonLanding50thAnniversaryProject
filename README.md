@@ -25,5 +25,5 @@ https://drive.google.com/open?id=16MuKdvUKI33UrGDp3YEoHvcuR3A4TEhE
 
 5. mBot based Moon Landing celebration project   by Tiger Peng
 
-6. Halocode board based Moon Landing celebration project by Kevin Yu
+6. Halocode board based Moon Landing celebration project by Linda Xun
 
