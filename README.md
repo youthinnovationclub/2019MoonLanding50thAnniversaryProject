@@ -9,6 +9,8 @@ July 16, 2019 will mark the 50th anniversary of the launch of the Apollo 11 miss
 
 We, at Youth Coding & Innovation Club, participate and submit multiple projects this year.
 
+Club head coach   David Peng
+
 1. Scratch Game              by   Kenneth Tong
 
 https://scratch.mit.edu/projects/321789340/
